@@ -1,0 +1,43 @@
+h1 {
+	color: hotpink;
+	text-align: left;
+}
+
+p {
+	color: green;
+}
+
+th {
+	color: orange;
+}
+
+td {
+	color: blueviolet;
+	text-align: left;
+ }
+	label {
+		color: blue;
+	}
+
+	input {
+		color: red;
+		background-color: yellow;
+	}
+
+h2 {
+	color: hotpink;
+	text-align: left;
+}
+
+button {
+	color: hotpink;
+}
+
+div {
+	background-image: url("image/nipseyhussle.jpg");
+	background-size: cover;
+	border: blueviolet;
+	margin: 60px
+	padding: 10px;
+
+}
